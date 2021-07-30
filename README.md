@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a target="_blank" href="https://github.com/VoliKoN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoliKoN&count_private=true&show_icons=true&theme=dark&hide=stars" />
+</a>
 
 <!--
 **VoliKoN/VoliKoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
